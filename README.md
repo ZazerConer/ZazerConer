@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zazerconer&" alt="zazerconer" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer's&theme=github_dark)](https://github.com/ZazerConer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer&theme=github_dark)](https://github.com/ZazerConer/github-readme-stats)
