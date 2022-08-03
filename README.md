@@ -14,6 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZazerConer&show_icons=true&locale=en&theme=github_dark" alt="zazerconer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&theme=github_dark" alt="zazerconer" /></p>
-![ZazerConer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zazerconer&show_icons=true&theme=github_dark)
+[ZazerConer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zazerconer&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer&theme=github_dark&layout=compact)](https://github.com/ZazerConer/github-readme-stats)
