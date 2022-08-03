@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zazeroner&&theme=github_dark&repo=github-readme-stats)](https://github.com/zazerconer/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Zaid Zer (ZazerConer)</h1>
 <h3 align="center">Just a fun time on github.</h3>
 
@@ -17,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zazerconer&theme=github_dark" alt="zazerconer" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer&theme=github_dark)](https://github.com/ZazerConer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer&theme=github_dark&layout=compact)](https://github.com/ZazerConer/github-readme-stats)
