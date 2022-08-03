@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZazerConer&&theme=github_dark&repo=github-readme-stats)](https://github.com/ZazerConer/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zazeroner&&theme=github_dark&repo=github-readme-stats)](https://github.com/zazerconer/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Zaid Zer (ZazerConer)</h1>
 <h3 align="center">Just a fun time on github.</h3>
