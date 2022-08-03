@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **I do this in my spare time.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -15,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zazerconer&show_icons=true&locale=en" alt="zazerconer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zazerconer&" alt="zazerconer" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZazerConer's&theme=github_dark)](https://github.com/ZazerConer/github-readme-stats)
