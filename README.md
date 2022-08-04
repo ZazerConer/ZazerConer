@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zazerconer&label=Profile%20views&color=0e75b6&style=flat" alt="zazerconer" /> </p>
 
-- ⚡ Fun fact **I do this in my spare time.**
+<img align="right" alt="motion" src="adventures-motion">
 
-<br>
+- ⚡ Fun fact **I do this in my spare time.**
 
 :mailbox: How to reach me : <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
 
