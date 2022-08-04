@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center">⚡ Fun fact : <b>I do this in my spare time.</b></p>
+<p align="left">⚡ Fun fact : <b>I do this in my spare time.</b></p>
 
 :mailbox: How to reach me : <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
 
