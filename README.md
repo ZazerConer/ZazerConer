@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zazerconer&label=Profile%20views&color=0e75b6&style=flat" alt="zazerconer" /> </p>
 
-<img align="right" alt="motion" src="adventures-motion.gif" width="90" height=80">
+<img align="right" alt="motion" src="adventures-motion.gif" style="width:90px;height:px">
 
 <br>
 
