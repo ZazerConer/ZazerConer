@@ -6,7 +6,9 @@
 
 <img align="right" alt="motion" src="adventures-motion.gif">
 
-- ⚡ Fun fact **I do this in my spare time.**
+<br>
+
+<p align="center">⚡ Fun fact **I do this in my spare time.**</p>
 
 :mailbox: How to reach me : <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
 
