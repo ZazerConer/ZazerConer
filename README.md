@@ -21,8 +21,10 @@
 <a href="https://www.w3resource.com/javascript/javascript.php" target="_blank" rel="noreferrer"><img src="/javascript_wordmark.png" alt="javascript" width="40" height="40"/></a>
 </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.herokuapp.com?username=ZazerConer&show_icons=true&locale=en&theme=github_dark" alt="zazerconer"></p>
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ZazerConer&show_icons=true&locale=en&theme=github_dark)](https://git.io/github-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.herokuapp.com/top-langs/?username=ZazerConer&theme=github_dark&layout=compact)](https://github.com/ZazerConer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?top-langs/?username=ZazerConer&theme=github_dark&layout=compact)](https://github.com/ZazerConer/github-readme-stats)
