@@ -6,7 +6,7 @@
 
 <b>:octocat: Just a fun time on github.</b>
 
-<a href="https://app.daily.dev/ZazerConer"><img align="right" src="https://api.daily.dev/devcards/617d44046b9a4763a65d3ac11566c6da.png?r=o4j" width="300" alt="Zaid Zer's Dev Card"/></a>
+<a href="https://app.daily.dev/ZazerConer"><img align="right" src="https://api.daily.dev/devcards/617d44046b9a4763a65d3ac11566c6da.png?r=o4j" width="180" alt="Zaid Zer's Dev Card"/></a>
 
 <br>
 
