@@ -38,7 +38,7 @@
 
 🔗 <b>Update Repo</b>
 
-- **[Save Image in localStorage >](https://github.com/ZazerConer/Store-Image-in-localStorage)**
+- **[Store Image in localStorage >](https://github.com/ZazerConer/Store-Image-in-localStorage)**
 
 - **[Show Data From localStorage >](https://github.com/ZazerConer/Show-Data-From-localStorage)**
 
