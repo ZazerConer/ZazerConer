@@ -10,13 +10,15 @@
 
 <br>
 
-🔗 Fun fact : <b>I will do anything if I feel like doing it.</b>
-
-📧 How to reach me : <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
+🔗 Fun fact: <b>I will do anything if I feel like doing it.</b>
 
 <br>
 
-<b>🔧 Languages and Tools :</b>
+📧 How to reach me: <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
+
+<br>
+
+<b>🔧 Languages and Tools:</b>
 <p align="left">
 <a href="https://www.w3resource.com/html5/introduction.php" target="_blank" rel="noreferrer"><img src="/html5_wordmark.png" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3resource.com/css/CSS-tutorials.php" target="_blank" rel="noreferrer"><img src="/css3_wordmark.png" alt="css3" width="40" height="40"/></a>
@@ -25,10 +27,19 @@
 
 <br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ZazerConer&show_icons=true&locale=en&theme=github_dark)](https://git.io/github-stats)
+![ZazerConer GitHub Stats](https://server.dooboo.io/github-stats-advanced/ZazerConer)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ZazerConer&theme=react-dark&hide_border=true&area=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZazerConer&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/ZazerConer/github-readme-stats)
+<br>
+<hr>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ZazerConer&theme=react-dark&hide_border=true&area=true)
+🔗 <b>Update Repo</b>
+
+- **[Save Image in localStorage >](https://github.com/ZazerConer/Store-Image-in-localStorage)**
+
+- **[Show Data From localStorage >](https://github.com/ZazerConer/Show-Data-From-localStorage)**
+
+- **[Source Code File Downloader >](https://github.com/ZazerConer/Source-Code-File-Downloader)**
