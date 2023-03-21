@@ -1,20 +1,16 @@
-<div align="center"><strong>Hi 👋, I'm Zaid Zer (ZazerConer's)</strong></div>
+<div align="center"><strong>ZazerConer's</strong></div>
 
 <hr>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=zazerconer&label=Profile%20views&color=0e75b6&style=flat" alt="zazerconer"></p>
-
-<a href="https://app.daily.dev/ZazerConer"><img align="right" src="https://api.daily.dev/devcards/617d44046b9a4763a65d3ac11566c6da.png?r=o4j" width="180" alt="Zaid Zer's Dev Card"/></a>
-
-<b>:octocat: Just a fun time on github.</b>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=zazerconer&label=Views&color=0e75b6&style=flat" alt="zazerconer"></p>
 
 <br>
 
-🔗 Fun fact: <b>I will do anything if I feel like doing it.</b>
+<strong>:octocat: Just a fun time on github.</strong>
 
 <br>
 
-📧 How to reach me: <a href="mailto:zaid.zer9@gmail.com">zaid.zer9@gmail.com</a>
+<b>🔗 Fun fact:</b> <p>I will do anything if I feel like doing it.</p>
 
 <br>
 
@@ -29,8 +25,6 @@
 
 ![ZazerConer GitHub Stats](https://server.dooboo.io/github-stats-advanced/ZazerConer)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ZazerConer&theme=react-dark&hide_border=true&area=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <br>
@@ -38,8 +32,8 @@
 
 🔗 <b>Update Repo</b>
 
-- **[Store Image in localStorage >](https://github.com/ZazerConer/Store-Image-in-localStorage)**
+- **[YouTube to M3U8 >>](https://github.com/ZazerConer/YouTube-to-M3U8)**
 
-- **[Show Data From localStorage >](https://github.com/ZazerConer/Show-Data-From-localStorage)**
+- **[Live YouTube Malaysia >>](https://github.com/ZazerConer/liveYTmalaysia)**
 
-- **[Source Code File Downloader >](https://github.com/ZazerConer/Source-Code-File-Downloader)**
+- **[Live TV Malaysia width Player >>](https://github.com/ZazerConer/live-tv-malaysia-with-player)**
