@@ -23,7 +23,7 @@
 
 <br>
 
-![ZazerConer GitHub Stats](https://server.dooboo.io/github-stats-advanced/ZazerConer)
+![ZazerConer GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=zazerconer)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
 
