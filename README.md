@@ -10,22 +10,23 @@
 
 <br>
 
-<b>🔗 Fun fact:</b> <p>I will do anything if I feel like doing it.</p>
+<b>🔗 Fun fact:</b> <p><i>I will do anything if I feel like doing it.</i></p>
 
+<br>
 <br>
 
 <b>🔧 Languages and Tools:</b>
 <p align="left">
-<a href="https://www.w3resource.com/html5/introduction.php" target="_blank" rel="noreferrer"><img src="/html5_wordmark.png" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3resource.com/css/CSS-tutorials.php" target="_blank" rel="noreferrer"><img src="/css3_wordmark.png" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3resource.com/javascript/javascript.php" target="_blank" rel="noreferrer"><img src="/javascript_wordmark.png" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.w3resource.com/html5/introduction.php" target="_blank" rel="noopener noreferrer"><img src="/html5_wordmark.png" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.w3resource.com/css/CSS-tutorials.php" target="_blank" rel="noopener noreferrer"><img src="/css3_wordmark.png" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3resource.com/javascript/javascript.php" target="_blank" rel="noopener noreferrer"><img src="/javascript_wordmark.png" alt="javascript" width="40" height="40"/></a>
 </p> 
 
 <br>
 
 ![ZazerConer GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=zazerconer)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZazerConer&show_icon=true&locale=en&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <br>
 <hr>
