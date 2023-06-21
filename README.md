@@ -34,7 +34,7 @@
 
 🔗 <b>Update Repo</b>
 
-- **[Facebook Player »](https://github.com/ZazerConer/fb-playefb-player)**
+- **[Facebook Player »](https://github.com/ZazerConer/fb-player)**
 
 - **[YouTube to M3U8 »](https://github.com/ZazerConer/YouTube-to-M3U8)**
 
