@@ -34,12 +34,8 @@
 
 🔗 <b>Update Repo</b>
 
-- **[SubTools »](https://github.com/ZazerConer/subtools)**
-
-- **[YouTube to M3U8 »](https://github.com/ZazerConer/YouTube-to-M3U8)**
-
 - **[YouTube to M3U8 »](https://github.com/ZazerConer/YouTube-to-M3U8)**
 
 - **[Live YouTube Malaysia »](https://github.com/ZazerConer/liveYTmalaysia)**
 
-- **[Live TV Malaysia width Player »](https://github.com/ZazerConer/live-tv-malaysia-with-player)**
+- **[Templates for AppCreator24 »](https://github.com/ZazerConer/Templates-For-AppCreator24)**
