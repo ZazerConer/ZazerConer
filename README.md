@@ -1,4 +1,4 @@
-<div align="center"><strong>ZazerConer's</strong></div>
+<div align="center"><strong>:octocat: ZazerConer's</strong></div>
 
 <hr>
 
@@ -6,11 +6,7 @@
 
 <br>
 
-<strong>:octocat: Just a fun time on github.</strong>
-
-<br>
-
-<b>🔗 Fun fact:</b> <p><i>I will do anything if I feel like doing it.</i></p>
+<div align="right"><a href="https://app.daily.dev/zazerconer"><img width="230" src="https://api.daily.dev/devcards/617d44046b9a4763a65d3ac11566c6da.png?r=huv" width="400" alt="Zaid Zer's Dev Card"/></a></div>
 
 <br>
 <br>
