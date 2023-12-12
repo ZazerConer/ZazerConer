@@ -2,11 +2,11 @@
 
 <hr>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=zazerconer&label=Views&color=0e75b6&style=flat" alt="zazerconer"></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=zazerconer&label=Views&color=0e75b6&style=flat" alt="zazerconer"></p>
 
 <br>
 
-<div align="right"><a href="https://app.daily.dev/zazerconer"><img width="230" src="https://api.daily.dev/devcards/617d44046b9a4763a65d3ac11566c6da.png?r=huv" width="400" alt="Zaid Zer's Dev Card"/></a></div>
+<div align="center"><a href="https://app.daily.dev/zazerconer"><img src="https://github.com/ZazerConer/ZazerConer/blob/main/devcard.svg" width="300" alt="Zaid Zer's Dev Card"/></a></div>
 
 <br>
 <br>
