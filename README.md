@@ -26,14 +26,3 @@
 
 <br>
 <hr>
-<br>
-
-🔗 <b>Update Repo</b>
-
-- **[Preview HTML »](https://github.com/ZazerConer/preview)**
-
-- **[YouTube to M3U8 »](https://github.com/ZazerConer/YouTube-to-M3U8)**
-
-- **[Live YouTube Malaysia »](https://github.com/ZazerConer/liveYTmalaysia)**
-
-- **[Templates for AppCreator24 »](https://github.com/ZazerConer/Templates-For-AppCreator24)**
