@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center"><a href="https://app.daily.dev/zazerconer"><img src="https://github.com/ZazerConer/ZazerConer/blob/main/devcard.svg" width="300" alt="Zaid Zer's Dev Card"/></a></div>
+<div align="center"><a href="https://app.daily.dev/zazerconer"><img src="https://api.daily.dev/devcards/v2/GVnenZ1Fta2LeaGfhUrS0.png?type=default&r=f4f" width="300" alt="Zaid Zer's Dev Card"/></a></div>
 
 <br>
 <br>
